@@ -3,7 +3,7 @@
 
 ---
 
-## 什么是 DuoPlus 云手机？
+## 🚀什么是 DuoPlus 云手机？
 
 DuoPlus云手机是基于云端的 **Android 手机服务（Cloud Phone）**，无需实体手机，用户可以在云端创建、管理和控制多台虚拟 Android 设备，正常运行移动应用程序。
 
@@ -17,7 +17,7 @@ DuoPlus云手机常见应用于：
 
 ---
 
-## 架构概览
+## 🌐架构概览
 
 DuoPlus云手机采用与真机一样的ARM芯片，生成独立干净的 Android 设备环境，兼顾稳定性、可扩展性与自动化能力。
 
@@ -35,7 +35,7 @@ DuoPlus云手机采用与真机一样的ARM芯片，生成独立干净的 Androi
 
 ---
 
-## 功能特性（Features）
+## 💥功能特性（Features）
 
 - **操作同步功能**
   实时同步主机的操作，便于批量操作多台云手机。
@@ -57,7 +57,7 @@ DuoPlus云手机采用与真机一样的ARM芯片，生成独立干净的 Androi
 
 ---
 
-## 使用场景（Use Cases）
+## 🧩使用场景（Use Cases）
 
 通过多台云手机实现账号隔离的效果，适用于社交媒体、电商、广告等多账号运营场景。
 
@@ -75,14 +75,14 @@ DuoPlus云手机采用与真机一样的ARM芯片，生成独立干净的 Androi
 
 ---
 
-## 官方网站
+## 📢官方网站
 
   中文：https://www.duoplus.cn
   英文：https://www.duoplus.net
 
 ---
 
-## 快速开始（Getting Started）
+## 👋快速开始（Getting Started）
 
 1. **注册 DuoPlus 账号**  
    在 DuoPlus 官方平台注册并创建账号（https://www.duoplus.cn/share/github）
